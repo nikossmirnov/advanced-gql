@@ -2,7 +2,7 @@
   "name": "adv-gqlv2",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Scott Moss <willscottmoss@gmail.com>",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "start": "node src/index.js",
